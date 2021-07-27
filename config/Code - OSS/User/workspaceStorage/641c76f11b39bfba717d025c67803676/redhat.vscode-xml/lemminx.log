@@ -1,0 +1,40 @@
+Jan 20, 2021 3:26:25 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.14.1
+ - Java : /usr/lib/jvm/java-11-openjdk
+ - Git 67a2463 - [maven-release-plugin] prepare release 0.14.1
+Jan 20, 2021 5:04:28 PM org.eclipse.lemminx.commons.ParentProcessWatcher run
+WARNING: Parent process stopped running, forcing server exit
+Jan 20, 2021 5:25:23 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.14.1
+ - Java : /usr/lib/jvm/java-11-openjdk
+ - Git 67a2463 - [maven-release-plugin] prepare release 0.14.1
+Jan 20, 2021 5:31:04 PM org.eclipse.lemminx.services.XMLCompletions collectAttributeValueSuggestions
+SEVERE: While performing ICompletionParticipant#onAttributeValue
+java.util.concurrent.CancellationException: Text document version '36' has changed to version '39.
+	at org.eclipse.lemminx.commons.TextDocumentVersionChecker.checkCanceled(TextDocumentVersionChecker.java:41)
+	at org.eclipse.lemminx.commons.MultiCancelChecker.checkCanceled(MultiCancelChecker.java:33)
+	at org.eclipse.lemminx.dom.DOMDocument.checkCanceled(DOMDocument.java:944)
+	at org.eclipse.lemminx.dom.DOMDocument.offsetAt(DOMDocument.java:94)
+	at org.eclipse.lemminx.extensions.xsi.XSISchemaModel.computeValueCompletionResponses(XSISchemaModel.java:165)
+	at org.eclipse.lemminx.extensions.xsi.participants.XSICompletionParticipant.onAttributeValue(XSICompletionParticipant.java:35)
+	at org.eclipse.lemminx.services.XMLCompletions.collectAttributeValueSuggestions(XMLCompletions.java:902)
+	at org.eclipse.lemminx.services.XMLCompletions.doComplete(XMLCompletions.java:150)
+	at org.eclipse.lemminx.services.XMLLanguageService.doComplete(XMLLanguageService.java:147)
+	at org.eclipse.lemminx.XMLTextDocumentService.lambda$completion$1(XMLTextDocumentService.java:203)
+	at java.base/java.util.concurrent.CompletableFuture.biApply(CompletableFuture.java:1236)
+	at java.base/java.util.concurrent.CompletableFuture$BiApply.tryFire(CompletableFuture.java:1205)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+Jan 20, 2021 5:35:26 PM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloading http://www.w3.org/2001/xml.xsd to /home/prathamesh/.lemminx/cache/http/www.w3.org/2001/xml.xsd...
+Jan 20, 2021 5:35:41 PM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloaded http://www.w3.org/2001/xml.xsd to /home/prathamesh/.lemminx/cache/http/www.w3.org/2001/xml.xsd in 15842ms

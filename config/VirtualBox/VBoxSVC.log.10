@@ -1,0 +1,53 @@
+00:00:00.075678 main     VirtualBox XPCOM Server 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:00.075687 main     Log opened 2020-10-05T11:54:32.729318000Z
+00:00:00.075689 main     Build Type: release
+00:00:00.075695 main     OS Product: Linux
+00:00:00.075699 main     OS Release: 5.4.66-1-lts
+00:00:00.075703 main     OS Version: #1 SMP Thu, 17 Sep 2020 18:00:06 +0000
+00:00:00.075752 main     DMI Product Name: Aspire A515-51G
+00:00:00.075773 main     DMI Product Version: V2.02
+00:00:00.075784 main     Firmware type: UEFI
+00:00:00.077892 main     Secure Boot: Disabled
+00:00:00.078031 main     Host RAM: 7838MB (7.6GB) total, 7054MB (6.8GB) available
+00:00:00.078041 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.078042 main     Process ID: 8396
+00:00:00.078044 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.083223 main     IPC socket path: /tmp/.vbox-prathamesh-ipc/ipcd
+00:00:00.199581 nspr-2   VirtualBox: object creation starts
+00:00:00.199790 nspr-2   Home directory: '/home/prathamesh/.config/VirtualBox'
+00:00:00.303216 nspr-2   Loading settings file "/home/prathamesh/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.306930 nspr-2   USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x3015)
+00:00:00.307370 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.376029 nspr-2   HostDnsMonitor: initializing
+00:00:00.376695 nspr-2   HostDnsMonitor: updating information
+00:00:00.376727 nspr-2   HostDnsMonitor: unchanged
+00:00:00.610551 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.633997 nspr-2   Loading settings file "/home/prathamesh/VirtualBox VMs/Kali-Linux-2020.2-vbox-amd64/Kali-Linux-2020.2-vbox-amd64.vbox" with version "1.16-linux"
+00:00:00.673777 nspr-2   Loading settings file "/home/prathamesh/VirtualBox VMs/Parrot Security/Parrot Security.vbox" with version "1.16-linux"
+00:00:00.689642 nspr-2   Loading settings file "/home/prathamesh/VirtualBox VMs/Mac/Mac.vbox" with version "1.15-linux"
+00:00:00.729733 nspr-2   Loading settings file "/home/prathamesh/VirtualBox VMs/macOS/macOS.vbox" with version "1.15-linux"
+00:00:00.765548 nspr-2   OCI: Local config file '/home/prathamesh/.config/VirtualBox/oci_config' does not exist
+00:00:00.765634 nspr-2   OCI: Original config file '/home/prathamesh/.oci/config' does not exist
+00:00:00.765649 nspr-2   OCI: Reading profiles finished with status NS_OK
+00:00:00.765693 nspr-2   ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:00.765752 nspr-2   VirtualBox: object created
+00:00:05.512206 nspr-5   Launched VM: 201330624 pid: 8847 (0x228f) frontend: GUI/Qt name: Mac
+00:00:06.467184 nspr-2   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:00:06.854192 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:36.549772 nspr-8   Saving settings file "/home/prathamesh/VirtualBox VMs/Mac/Mac.vbox" with version "1.15-linux"
+00:00:37.276581 nspr-3   Saving settings file "/home/prathamesh/VirtualBox VMs/Mac/Mac.vbox" with version "1.15-linux"
+00:00:44.112538 nspr-8   Saving settings file "/home/prathamesh/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:00.935618 nspr-2   Saving settings file "/home/prathamesh/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:01.352853 nspr-4   Saving settings file "/home/prathamesh/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:01.700330 nspr-5   Saving settings file "/home/prathamesh/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:02.081375 nspr-3   Saving settings file "/home/prathamesh/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:07.933810 main     VirtualBox: object deletion starts
+00:02:07.933913 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/prathamesh/VirtualBox VMs/Kali-Linux-2020.2-vbox-amd64/Kali-Linux-2020.2-vbox-amd64-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:02:07.934313 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/prathamesh/VirtualBox VMs/Parrot Security/Parrot Security-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:02:07.934568 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/prathamesh/temp/macos-virtualbox/Catalina_bootable_installer.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:02:07.934608 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/prathamesh/temp/macos-virtualbox/macOS.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:02:07.935592 main     HostDnsMonitor: shutting down ...
+00:02:07.936037 main     HostDnsMonitor: shut down
+00:02:08.321950 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:02:12.937242 main     {00007f3f30017aa0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:02:12.938601 main     VirtualBox: object deleted

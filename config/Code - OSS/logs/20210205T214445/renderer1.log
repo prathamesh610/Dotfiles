@@ -1,0 +1,4 @@
+[2021-02-05 21:44:48.220] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/run/media/prathamesh/51D32C4B23E9992F/Internship/hungryybee/.vscode'
+[2021-02-05 21:47:33.731] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2021-02-05 21:47:33.734] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2021-02-05 21:47:33.734] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings

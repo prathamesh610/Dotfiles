@@ -1,0 +1,4 @@
+[2021-02-05 21:41:27.128] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/prathamesh/www/WTL_Group_Activity/.vscode'
+[2021-02-05 21:41:47.875] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5584.051ms, saved PROFILE here: '/tmp/exthost-e5bdf5.cpuprofile' [{"id":"ritwickdey.LiveServer","total":5583149,"percentage":100}]
+[2021-02-05 21:42:13.600] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/run/media/prathamesh/51D32C4B23E9992F/Internship/hungryybee/.vscode'
+[2021-02-05 21:42:34.745] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/run/media/prathamesh/51D32C4B23E9992F/Internship/hungryybee/.vscode'

@@ -1,0 +1,27 @@
+2021/01/31-20:54:34.995 516b7 Reusing MANIFEST /home/prathamesh/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/31-20:54:34.996 516b7 Recovering log #715
+2021/01/31-20:54:35.394 516b7 Reusing old log /home/prathamesh/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000715.log 
+2021/01/31-21:14:22.166 61f18 Level-0 table #725: started
+2021/01/31-21:14:22.300 5e120 Current memtable full; waiting...
+2021/01/31-21:14:22.317 61f18 Level-0 table #725: 1622602 bytes OK
+2021/01/31-21:14:22.416 61f18 Delete type=0 #715
+2021/01/31-21:14:22.418 61f18 Level-0 table #727: started
+2021/01/31-21:14:22.522 61f18 Level-0 table #727: 2004920 bytes OK
+2021/01/31-21:14:22.669 61f18 Delete type=0 #724
+2021/01/31-21:14:22.722 61f18 Compacting 1@1 + 5@2 files
+2021/01/31-21:14:22.852 61f18 Generated table #728@1: 3995 keys, 2176902 bytes
+2021/01/31-21:14:23.146 61f18 Generated table #729@1: 21713 keys, 2214027 bytes
+2021/01/31-21:14:23.416 61f18 Generated table #730@1: 493 keys, 2119229 bytes
+2021/01/31-21:14:23.589 61f18 Generated table #731@1: 5612 keys, 2137197 bytes
+2021/01/31-21:14:23.694 61f18 Generated table #732@1: 5799 keys, 892916 bytes
+2021/01/31-21:14:23.694 61f18 Compacted 1@1 + 5@2 files => 9540271 bytes
+2021/01/31-21:14:23.792 61f18 compacted to: files[ 1 0 5 0 0 0 0 ]
+2021/01/31-21:14:23.793 61f18 Delete type=2 #718
+2021/01/31-21:14:23.793 61f18 Delete type=2 #719
+2021/01/31-21:14:23.793 61f18 Delete type=2 #720
+2021/01/31-21:14:23.793 61f18 Delete type=2 #721
+2021/01/31-21:14:23.793 61f18 Delete type=2 #722
+2021/01/31-21:14:23.793 61f18 Delete type=2 #725
+2021/02/01-10:18:03.088 61f18 Moved #727 to level-1 2004920 bytes OK: files[ 0 1 5 0 0 0 0 ]
+2021/02/01-10:18:03.398 61f18 Compacting 1@1 + 1@2 files
+2021/02/01-10:18:03.428 61f18 compacted to: files[ 0 1 5 0 0 0 0 ]

@@ -1,0 +1,15 @@
+2020/12/25-10:08:55.380 af90 Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/https_unacademy.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/25-10:08:55.380 af90 Recovering log #11
+2020/12/25-10:08:55.380 af90 Reusing old log /home/prathamesh/.config/chromium/Default/IndexedDB/https_unacademy.com_0.indexeddb.leveldb/000011.log 
+2020/12/25-10:09:53.629 ddf9 Level-0 table #16: started
+2020/12/25-10:09:53.706 ddf9 Level-0 table #16: 2680 bytes OK
+2020/12/25-10:09:53.805 ddf9 Delete type=0 #11
+2020/12/25-10:09:53.806 ddf9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/25-10:09:53.806 ddf9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x80\xe7\x1a\x83iwB\x00\x01B\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00s\x00t\x00y\x00l\x00e\x00-\x00a\x00s\x00s\x00e\x00t\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00u\x00n\x00a\x00c\x00a\x00d\x00e\x00m\x00y\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00c\x00s\x00s\x00/\x00n\x00p\x00r\x00o\x00g\x00r\x00e\x00s\x00s\x00.\x00c\x00s\x00s' @ 406 : 1
+2020/12/25-10:09:53.806 ddf9 Compacting 1@1 + 1@2 files
+2020/12/25-10:09:53.853 ddf9 Generated table #17@1: 38 keys, 1405 bytes
+2020/12/25-10:09:53.854 ddf9 Compacted 1@1 + 1@2 files => 1405 bytes
+2020/12/25-10:09:53.952 ddf9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/25-10:09:53.953 ddf9 Delete type=2 #13
+2020/12/25-10:09:53.953 ddf9 Delete type=2 #16
+2020/12/25-10:09:53.954 ddf9 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x80\xe7\x1a\x83iwB\x00\x01B\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00s\x00t\x00y\x00l\x00e\x00-\x00a\x00s\x00s\x00e\x00t\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00u\x00n\x00a\x00c\x00a\x00d\x00e\x00m\x00y\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00c\x00s\x00s\x00/\x00n\x00p\x00r\x00o\x00g\x00r\x00e\x00s\x00s\x00.\x00c\x00s\x00s' @ 406 : 1 .. (end); will stop at (end)

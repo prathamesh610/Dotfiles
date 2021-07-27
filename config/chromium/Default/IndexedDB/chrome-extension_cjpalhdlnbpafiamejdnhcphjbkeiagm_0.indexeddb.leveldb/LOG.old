@@ -1,0 +1,8 @@
+2021/04/16-12:19:56.482 5f7c Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/16-12:19:56.482 5f7c Recovering log #151
+2021/04/16-12:19:56.483 5f7c Reusing old log /home/prathamesh/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000151.log 
+2021/04/16-12:19:58.622 5f7b Level-0 table #155: started
+2021/04/16-12:19:58.622 5f7b Level-0 table #155: 0 bytes OK
+2021/04/16-12:19:59.565 5f7b Delete type=0 #151
+2021/04/16-12:19:59.566 5f7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/16-12:19:59.566 5f7b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

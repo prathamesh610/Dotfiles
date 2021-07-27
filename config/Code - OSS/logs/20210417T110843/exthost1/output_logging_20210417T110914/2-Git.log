@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /home/prathamesh/www/WTL_Group_Activity
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Srijan
+> git rev-parse --symbolic-full-name Srijan@{u}
+> git rev-list --left-right Srijan...refs/remotes/origin/Srijan
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Files/SignUpPage/connect.php
+> git show --textconv :Files/account/profile.php
+> git ls-files --stage -- /home/prathamesh/www/WTL_Group_Activity/Files/SignUpPage/connect.php
+> git ls-files --stage -- /home/prathamesh/www/WTL_Group_Activity/Files/account/profile.php
+> git cat-file -s 03251ce0c0225add0700fbeb17255c917a45ecc7
+> git cat-file -s 404120a7a837672d7ab08e987d707f422db2331a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Srijan
+> git rev-parse --symbolic-full-name Srijan@{u}
+> git rev-list --left-right Srijan...refs/remotes/origin/Srijan
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

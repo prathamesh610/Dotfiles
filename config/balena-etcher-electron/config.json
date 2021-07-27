@@ -1,0 +1,10 @@
+{
+  "unsafeMode": false,
+  "errorReporting": true,
+  "unmountOnSuccess": true,
+  "validateWriteOnSuccess": true,
+  "updatesEnabled": true,
+  "desktopNotifications": true,
+  "autoBlockmapping": true,
+  "decompressFirst": true
+}

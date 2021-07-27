@@ -1,0 +1,9 @@
+2021/02/01-10:20:36.036 b5ea3 Reusing MANIFEST /home/prathamesh/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/02/01-10:20:36.037 b5ea3 Recovering log #839
+2021/02/01-10:20:36.037 b5ea3 Reusing old log /home/prathamesh/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000839.log 
+2021/02/01-10:21:36.039 b6d67 Level-0 table #843: started
+2021/02/01-10:21:36.106 b6d67 Level-0 table #843: 44607 bytes OK
+2021/02/01-10:21:36.205 b6d67 Delete type=0 #839
+2021/02/01-11:02:51.423 b6d67 Level-0 table #845: started
+2021/02/01-11:02:51.594 b6d67 Level-0 table #845: 72045 bytes OK
+2021/02/01-11:02:51.742 b6d67 Delete type=0 #842

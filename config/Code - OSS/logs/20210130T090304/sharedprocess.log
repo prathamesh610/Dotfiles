@@ -1,0 +1,8 @@
+[2021-01-30 09:03:10.202] [sharedprocess] [info] main {"machineId":"49760a3b5fb30f3d8aa998fba9ed3c7cdba4b3c6b7ff832c0dad6018c1dc6ed5","windowId":2}
+[2021-01-30 09:03:16.678] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-01-30 09:03:50.230] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-30 09:03:54.109] [sharedprocess] [info] Downloaded extension: dart-code.dart-code undefined
+[2021-01-30 09:03:57.761] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.dart-code.dart-code-3.19.1: dart-code.dart-code
+[2021-01-30 09:03:57.761] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1
+[2021-01-30 09:03:57.764] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2021-01-30 09:03:57.958] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code

@@ -1,0 +1,50 @@
+[2021-04-02 11:09:07.226] [sharedprocess] [info] main {"machineId":"49760a3b5fb30f3d8aa998fba9ed3c7cdba4b3c6b7ff832c0dad6018c1dc6ed5","windowId":2}
+[2021-04-02 11:09:15.576] [sharedprocess] [info] Installing extension: cweijan.vscode-mysql-client2
+[2021-04-02 11:09:15.576] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-04-02 11:09:15.577] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2021-04-02 11:09:15.577] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-04-02 11:09:15.578] [sharedprocess] [info] Installing extension: redhat.java
+[2021-04-02 11:09:15.578] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2021-04-02 11:09:15.578] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2021-04-02 11:09:15.578] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2021-04-02 11:09:28.382] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme undefined
+[2021-04-02 11:09:29.328] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.pkief.material-icon-theme-4.6.0: pkief.material-icon-theme
+[2021-04-02 11:09:29.328] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/pkief.material-icon-theme-4.6.0
+[2021-04-02 11:09:29.329] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-04-02 11:09:29.676] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons undefined
+[2021-04-02 11:09:29.824] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-04-02 11:09:30.769] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.vscode-icons-team.vscode-icons-11.2.0: vscode-icons-team.vscode-icons
+[2021-04-02 11:09:30.769] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/vscode-icons-team.vscode-icons-11.2.0
+[2021-04-02 11:09:30.770] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2021-04-02 11:09:31.049] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2021-04-02 11:09:34.227] [sharedprocess] [info] Downloaded extension: dart-code.flutter undefined
+[2021-04-02 11:09:34.396] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.dart-code.flutter-3.20.0: dart-code.flutter
+[2021-04-02 11:09:34.396] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/dart-code.flutter-3.20.0
+[2021-04-02 11:09:34.397] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2021-04-02 11:09:35.088] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2021-04-02 11:09:47.246] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-02 11:09:54.213] [sharedprocess] [info] Downloaded extension: cweijan.vscode-mysql-client2 undefined
+[2021-04-02 11:09:54.768] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.cweijan.vscode-mysql-client2-3.5.4: cweijan.vscode-mysql-client2
+[2021-04-02 11:09:54.768] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/cweijan.vscode-mysql-client2-3.5.4
+[2021-04-02 11:09:54.770] [sharedprocess] [info] Installation completed. cweijan.vscode-mysql-client2
+[2021-04-02 11:09:54.881] [sharedprocess] [info] Extensions installed successfully: cweijan.vscode-mysql-client2
+[2021-04-02 11:09:57.852] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test undefined
+[2021-04-02 11:09:57.991] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.vscjava.vscode-java-test-0.28.1: vscjava.vscode-java-test
+[2021-04-02 11:09:57.991] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/vscjava.vscode-java-test-0.28.1
+[2021-04-02 11:09:57.992] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2021-04-02 11:09:58.259] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2021-04-02 11:10:11.283] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug undefined
+[2021-04-02 11:10:11.468] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.vscjava.vscode-java-debug-0.31.0: vscjava.vscode-java-debug
+[2021-04-02 11:10:11.469] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/vscjava.vscode-java-debug-0.31.0
+[2021-04-02 11:10:11.474] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug
+[2021-04-02 11:10:11.579] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2021-04-02 11:10:26.259] [sharedprocess] [info] Downloaded extension: dart-code.dart-code undefined
+[2021-04-02 11:10:31.451] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.dart-code.dart-code-3.20.1: dart-code.dart-code
+[2021-04-02 11:10:31.451] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.20.1
+[2021-04-02 11:10:31.455] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2021-04-02 11:10:31.549] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2021-04-02 11:11:49.375] [sharedprocess] [info] Downloaded extension: redhat.java undefined
+[2021-04-02 11:11:50.056] [sharedprocess] [info] Extracted extension to /home/prathamesh/.vscode-oss/extensions/.redhat.java-0.76.0: redhat.java
+[2021-04-02 11:11:50.056] [sharedprocess] [info] Renamed to /home/prathamesh/.vscode-oss/extensions/redhat.java-0.76.0
+[2021-04-02 11:11:50.058] [sharedprocess] [info] Installation completed. redhat.java
+[2021-04-02 11:11:50.176] [sharedprocess] [info] Extensions installed successfully: redhat.java

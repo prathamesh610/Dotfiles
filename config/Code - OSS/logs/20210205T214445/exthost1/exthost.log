@@ -1,0 +1,202 @@
+[2021-02-05 21:44:48.508] [exthost] [info] extension host started
+[2021-02-05 21:44:48.571] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"onLanguage:dart"}
+[2021-02-05 21:44:48.572] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension
+[2021-02-05 21:44:48.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-05 21:44:48.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-02-05 21:44:48.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-05 21:44:48.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-05 21:44:48.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-05 21:44:48.633] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-02-05 21:44:48.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-05 21:44:48.653] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-05 21:44:48.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-05 21:44:48.655] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2021-02-05 21:44:48.656] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-02-05 21:44:48.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-02-05 21:44:48.673] [exthost] [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2 {"startup":true,"extensionId":{"value":"cweijan.vscode-mysql-client2","_lower":"cweijan.vscode-mysql-client2"},"activationEvent":"*"}
+[2021-02-05 21:44:48.673] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/cweijan.vscode-mysql-client2-3.5.1/out/extension
+[2021-02-05 21:44:48.840] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-02-05 21:44:48.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-02-05 21:44:48.863] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-02-05 21:44:48.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-02-05 21:44:49.140] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb {"startup":true,"extensionId":{"value":"vadimcn.vscode-lldb","_lower":"vadimcn.vscode-lldb"},"activationEvent":"*"}
+[2021-02-05 21:44:49.140] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/vadimcn.vscode-lldb-1.6.0/extension.js
+[2021-02-05 21:44:49.155] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-02-05 21:44:49.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/vscode-icons-team.vscode-icons-11.1.0/dist/src/vscode-icons.bundle.js
+[2021-02-05 21:44:49.454] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-05 21:44:49.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-05 21:44:49.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-05 21:44:49.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-02-05 21:44:50.064] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.flutter {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"api"}
+[2021-02-05 21:44:50.064] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/dart-code.flutter-3.19.0/out/src/extension
+[2021-02-05 21:44:51.364] [exthost] [info] eager extensions activated
+[2021-02-05 21:44:51.365] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-02-05 21:44:51.365] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prathamesh/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-02-05 21:45:02.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-02-05 21:45:02.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-02-05 21:45:02.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-02-05 21:45:02.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-02-05 21:45:02.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-02-05 21:45:02.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-02-05 21:45:11.712] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:45:11.716] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3789:21
+[2021-02-05 21:45:15.903] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:45:15.903] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:45:15.904] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:45:15.904] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3789:21
+[2021-02-05 21:45:16.172] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:45:16.172] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:45:35.122] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:45:35.122] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+[2021-02-05 21:45:35.123] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:45:35.123] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:45:35.209] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:45:35.209] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+	at runNextTicks (internal/process/task_queues.js:59:5)
+	at processImmediate (internal/timers.js:412:9)
+[2021-02-05 21:46:20.435] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:20.435] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+	at runNextTicks (internal/process/task_queues.js:59:5)
+	at processImmediate (internal/timers.js:412:9)
+[2021-02-05 21:46:29.339] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:29.339] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3789:21
+[2021-02-05 21:46:29.339] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:29.339] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+[2021-02-05 21:46:29.572] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:29.572] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3739:21
+	at async H.provideCompletionItems (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:764:28)
+[2021-02-05 21:46:29.637] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:29.637] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:46:31.040] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:31.040] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+[2021-02-05 21:46:31.355] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:31.355] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:46:33.134] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:33.135] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+[2021-02-05 21:46:49.631] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:49.631] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+[2021-02-05 21:46:49.632] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:49.632] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+[2021-02-05 21:46:49.632] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:49.632] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+	at runNextTicks (internal/process/task_queues.js:59:5)
+	at processImmediate (internal/timers.js:412:9)
+[2021-02-05 21:46:49.632] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:49.632] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+	at runNextTicks (internal/process/task_queues.js:59:5)
+	at processImmediate (internal/timers.js:412:9)
+[2021-02-05 21:46:49.824] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:49.824] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3739:21
+	at runNextTicks (internal/process/task_queues.js:59:5)
+	at processImmediate (internal/timers.js:412:9)
+	at async H.provideCompletionItems (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:764:28)
+[2021-02-05 21:46:49.833] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:49.833] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+	at runNextTicks (internal/process/task_queues.js:59:5)
+	at processImmediate (internal/timers.js:412:9)
+[2021-02-05 21:46:49.834] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:46:49.834] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:47:26.332] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:47:26.332] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:47:26.333] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:47:26.333] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:27190:39
+[2021-02-05 21:47:26.404] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:47:26.404] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3829:21
+[2021-02-05 21:47:26.405] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:47:26.405] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3829:21
+	at runNextTicks (internal/process/task_queues.js:59:5)
+	at processImmediate (internal/timers.js:412:9)
+[2021-02-05 21:47:26.405] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:47:26.405] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3829:21
+[2021-02-05 21:47:27.861] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:47:27.861] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:4112:21
+[2021-02-05 21:47:28.459] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-02-05 21:47:28.459] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5548:18)
+	at LanguageClient.handleFailedRequest (/home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:5538:16)
+	at /home/prathamesh/.vscode-oss/extensions/dart-code.dart-code-3.19.1/out/dist/extension.js:3752:22
+	at async H.resolveCompletionItem (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:764:734)
