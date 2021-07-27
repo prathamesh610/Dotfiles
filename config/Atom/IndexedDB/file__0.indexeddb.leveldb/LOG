@@ -1,6 +1,0 @@
-2020/12/17-19:17:05.522 50d43 Reusing MANIFEST /home/prathamesh/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2020/12/17-19:17:05.522 50d43 Recovering log #3
-2020/12/17-19:17:05.523 50d43 Reusing old log /home/prathamesh/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 
-2020/12/17-21:41:07.499 8c808 Level-0 table #5: started
-2020/12/17-21:41:07.647 8c808 Level-0 table #5: 1493271 bytes OK
-2020/12/17-21:41:07.796 8c808 Delete type=0 #3
