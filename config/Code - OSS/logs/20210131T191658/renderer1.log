@@ -1,2 +1,0 @@
-[2021-01-31 19:17:05.379] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/prathamesh/www/WTL_Group_Activity/.vscode'
-[2021-01-31 19:17:28.123] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5742.024ms, saved PROFILE here: '/tmp/exthost-7c03fa.cpuprofile' [{"id":"gc","total":16301,"percentage":0},{"id":"ritwickdey.LiveServer","total":5725338,"percentage":100}]
