@@ -1,4 +1,0 @@
-Lata
-cca
-ppt
-checksum_v1 = b5bc36720915afcd0159135d85d23e85

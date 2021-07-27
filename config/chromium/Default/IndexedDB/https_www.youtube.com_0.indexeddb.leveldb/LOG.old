@@ -1,8 +1,0 @@
-2020/12/08-23:23:08.430 be182 Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/08-23:23:08.430 be182 Recovering log #22
-2020/12/08-23:23:08.430 be182 Reusing old log /home/prathamesh/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
-2020/12/08-23:23:10.779 be11f Level-0 table #26: started
-2020/12/08-23:23:10.779 be11f Level-0 table #26: 0 bytes OK
-2020/12/08-23:23:11.048 be11f Delete type=0 #22
-2020/12/08-23:23:11.048 be11f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/08-23:23:11.048 be11f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

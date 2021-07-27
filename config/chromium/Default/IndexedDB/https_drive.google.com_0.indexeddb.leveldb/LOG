@@ -1,6 +1,0 @@
-2020/10/30-20:21:32.396 49763 Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/30-20:21:32.424 49763 Recovering log #4
-2020/10/30-20:21:33.252 49763 Reusing old log /home/prathamesh/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
-2020/10/30-20:21:53.831 49b62 Level-0 table #8: started
-2020/10/30-20:21:53.981 49b62 Level-0 table #8: 4058925 bytes OK
-2020/10/30-20:21:54.191 49b62 Delete type=0 #4

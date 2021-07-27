@@ -1,8 +1,0 @@
-2021/04/16-12:50:06.064 19d91 Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/https_zoom.us_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/16-12:50:06.092 19d91 Recovering log #4
-2021/04/16-12:50:06.092 19d91 Reusing old log /home/prathamesh/.config/chromium/Default/IndexedDB/https_zoom.us_0.indexeddb.leveldb/000004.log 
-2021/04/16-12:51:22.057 1ba66 Level-0 table #8: started
-2021/04/16-12:51:22.057 1ba66 Level-0 table #8: 0 bytes OK
-2021/04/16-12:51:22.160 1ba66 Delete type=0 #4
-2021/04/16-12:51:22.160 1ba66 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/04/16-12:51:22.160 1ba66 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

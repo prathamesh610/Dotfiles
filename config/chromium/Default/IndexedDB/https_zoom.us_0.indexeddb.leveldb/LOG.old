@@ -1,5 +1,0 @@
-2020/12/14-12:20:08.357 15a139 Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/https_zoom.us_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/14-12:23:16.431 15a11a Level-0 table #5: started
-2020/12/14-12:23:16.479 15a11a Level-0 table #5: 3804 bytes OK
-2020/12/14-12:23:16.578 15a11a Delete type=0 #3
-2020/12/14-12:23:16.579 15a11a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

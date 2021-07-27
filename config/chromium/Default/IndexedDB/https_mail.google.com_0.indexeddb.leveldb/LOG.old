@@ -1,5 +1,0 @@
-2020/12/02-22:15:29.415 54d2c Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/02-22:18:47.012 54e3f Level-0 table #5: started
-2020/12/02-22:18:47.060 54e3f Level-0 table #5: 2030 bytes OK
-2020/12/02-22:18:47.159 54e3f Delete type=0 #3
-2020/12/02-22:18:47.159 54e3f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

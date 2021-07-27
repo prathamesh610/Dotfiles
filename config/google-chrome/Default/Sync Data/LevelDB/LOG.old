@@ -1,6 +1,0 @@
-2020/10/24-12:42:26.635 5072b Reusing MANIFEST /home/prathamesh/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/10/24-12:42:26.635 5072b Recovering log #3
-2020/10/24-12:42:26.638 5072b Reusing old log /home/prathamesh/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
-2020/10/24-12:42:31.874 50741 Level-0 table #5: started
-2020/10/24-12:42:32.069 50741 Level-0 table #5: 152798 bytes OK
-2020/10/24-12:42:32.168 50741 Delete type=0 #3

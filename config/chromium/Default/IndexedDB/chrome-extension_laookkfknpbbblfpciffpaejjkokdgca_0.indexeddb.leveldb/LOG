@@ -1,5 +1,0 @@
-2021/04/16-12:19:58.400 5f7c Reusing MANIFEST /home/prathamesh/.config/chromium/Default/IndexedDB/chrome-extension_laookkfknpbbblfpciffpaejjkokdgca_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/16-12:43:36.222 6175 Level-0 table #5: started
-2021/04/16-12:43:36.285 6175 Level-0 table #5: 2555 bytes OK
-2021/04/16-12:43:36.496 6175 Delete type=0 #3
-2021/04/16-12:43:36.497 6175 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
