@@ -834,7 +834,7 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 do
   local cmds =
   {
-   "picom",
+   "picom &",
     "xfce4-power-manager",
     "xfsettingsd",
     "nm-applet",
